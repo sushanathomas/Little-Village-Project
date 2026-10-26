@@ -1,7 +1,7 @@
 
 # Little Village 🧸
 
-Little Village is a full-stack community marketplace designed to help families access free children's essentials.
+Little Village is a full-stack community marketplace designed to help families from lower-income communities access free children's essentials.
 
 ## About the Project
 
@@ -39,7 +39,7 @@ Setup instructions will be added as the backend is implemented.
 
 ## Project Status
 
-In development — Resilient Coders Demo Day project.
+In development — Demo Day project.
 
 ## Author
 
